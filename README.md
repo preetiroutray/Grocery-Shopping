@@ -1,5 +1,7 @@
 ## Grocery Shopping Management Website
 
+This is a web application designed to simplify and enhance your grocery shopping experience. Say goodbye to the hassle of managing shopping lists on paper and embrace the convenience of an online solution.
+
 # Table of Contents
 - [Description](#description)
 - [Demo](#demo)
@@ -11,8 +13,6 @@
 - [License](#license)
 
 # Description
-
-This is a web application designed to simplify and enhance your grocery shopping experience. Say goodbye to the hassle of managing shopping lists on paper and embrace the convenience of an online solution.
 
 Key features include:
 - Dynamic and easy-to-use interface
