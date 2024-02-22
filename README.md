@@ -1,6 +1,6 @@
-### Grocery Shopping Management Website
+## Grocery Shopping Management Website
 
-## Table of Contents
+# Table of Contents
 - [Description](#description)
 - [Demo](#demo)
 - [Features](#features)
@@ -10,7 +10,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Description
+# Description
 
 This is a web application designed to simplify and enhance your grocery shopping experience. Say goodbye to the hassle of managing shopping lists on paper and embrace the convenience of an online solution.
 
@@ -21,11 +21,11 @@ Key features include:
 - Order tracking and delivery status
 - and much more!
 
-## Demo
+# Demo
 
 Check out the live demo [here](<demo-link>).
 
-## Features
+# Features
 
 - **User Authentication:** Create an account or log in securely to access personalized features.
 - **Interactive Dashboard:** Easily manage and organize your shopping lists, view purchase history, and track orders.
@@ -34,7 +34,7 @@ Check out the live demo [here](<demo-link>).
 - **Order Tracking:** Keep track of your online orders and delivery status.
 - **Responsive Design:** Enjoy a seamless experience on various devices – desktop, tablet, or mobile.
 
-## Screenshots
+# Screenshots
 
 ![Screenshot 1](<screenshots-link>/screenshot1.png)
 *Caption for Screenshot 1*
@@ -42,7 +42,7 @@ Check out the live demo [here](<demo-link>).
 ![Screenshot 2](<screenshots-link>/screenshot2.png)
 *Caption for Screenshot 2*
 
-## Installation
+# Installation
 
 To run this project locally, follow these steps:
 
@@ -51,7 +51,7 @@ To run this project locally, follow these steps:
 3. Configure environment variables (if any).
 4. Run the development server: `npm start`
 
-## Usage
+# Usage
 
 - Register for an account on the website.
 - Log in and start creating your shopping lists.
@@ -59,11 +59,11 @@ To run this project locally, follow these steps:
 - Explore personalized suggestions based on your preferences.
 - Track your orders and receive updates on delivery status.
 
-## Contributing
+# Contributing
 
 We welcome contributions! If you have any ideas, improvements, or bug fixes, please open an issue or submit a pull request. Make sure to follow our [Contributing Guidelines](CONTRIBUTING.md).
 
-## License
+# License
 
 This project is licensed under the [MIT License](LICENSE).
 
