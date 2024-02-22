@@ -1,6 +1,4 @@
-# <Your-Website-Name>
-
-![Website Logo](link-to-your-logo.png)
+## Grocery Store
 
 ## Table of Contents
 - [Description](#description)
